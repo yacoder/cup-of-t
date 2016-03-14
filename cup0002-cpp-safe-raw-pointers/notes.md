@@ -8,10 +8,7 @@ https://www.youtube.com/watch?v=hEx5DNLWGgA
 + safer language
   prevent crashes and mem leaks
 + faster: raw pointers used more often
-+ competition for "safe system language"
-some with GC, some without
-Go, System C#
-C++14 with GSL, Rust
++ competition for "safe system language", some with GC, some without: Go, System C#, C++14 with GSL, Rust
 
 http://joeduffyblog.com/2013/12/27/csharp-for-systems-programming/
 http://joeduffyblog.com/2015/12/19/safe-native-code/
